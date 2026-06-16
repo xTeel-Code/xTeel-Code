@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xteel-code&label=Profile%20views&color=613583&style=flat" alt="xteel-code" /> </p>
 
-- 🌱 I’m currently learning **Python usability in cybersec**
+- 🌱 I’m currently learning **to learn**
 
 - 📝 I regularly write articles on [https://xteel-code.github.io/](https://xteel-code.github.io/)
 
