@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **to learn**
 
-- 📝 I regularly write articles on [https://xteel-code.github.io/](https://xteel-code.github.io/)
+- 📝 My Webpage [https://xteel.org/#top](https://xteel.org/)
 
 - 📫 How to reach me **samuel.bencc@gmail.com**
 
