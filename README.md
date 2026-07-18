@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **to learn**
 
-- 📝 My Webpage [https://xteel.org/#top](https://xteel.org/)
+- 📝 My Webpage is [here](https://xteel.org/)
 
 - 📫 How to reach me **samuel.bencc@gmail.com**
-
-- ⚡ Fun fact **I'm more paranoid than I look**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
